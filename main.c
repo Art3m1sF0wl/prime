@@ -1,3 +1,12 @@
+/*
+code example 
+written by Daniel Cazacu
+this code comes with no warranty, use at your own risk
+asd
+looooplooooper@gmail.com
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
